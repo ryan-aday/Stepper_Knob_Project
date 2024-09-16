@@ -3,6 +3,9 @@ Hardware, firmware development of an automatable kitchen knob.
 
 ## Documentation
 
+The CAD files have been drawn up in Solidworks 2024.
+The main assembly to view is Knob_Assembly_SM.sldasm.
+
 Full size drawings may be found in the Documentation folder and the Summary Sheet.
 The summary sheet can be opened with LibreOffice and its equivalents.
 The stepper schematic can be opened with Fritzing (v.1.0.3 recommended as of 09/16/2024).

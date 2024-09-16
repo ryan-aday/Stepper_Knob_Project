@@ -18,7 +18,7 @@ Other parts drawings may be found in the BOM references.
 
 The summary sheet can be opened with LibreOffice and its equivalents.
 
-The stepper schematic can be opened with Fritzing (v.1.0.3 recommended as of 09/16/2024).
+The stepper schematic can be opened with Fritzing (v.1.0.3 recommended as of 09/16/2024). https://fritzing.org/
 
 ### Chassis Sheet Metal Flat Drawing
 ![image](https://github.com/user-attachments/assets/58dd75d5-2be1-4fcd-9dfb-024b5247f055)

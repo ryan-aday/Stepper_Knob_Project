@@ -4,10 +4,17 @@ Hardware, firmware development of an automatable kitchen knob.
 ## Documentation
 
 The CAD files have been drawn up in Solidworks 2024.
+
 The main assembly to view is Knob_Assembly_SM.sldasm.
 
-Full size drawings may be found in the Documentation folder and the Summary Sheet.
+CAD files made by me are for the potentiometer, stepper motor, knob, and chassis.
+
+Full size chassis drawings may be found in the Documentation folder and the Summary Sheet.
+
+Other parts drawings may be found in the BOM references.
+
 The summary sheet can be opened with LibreOffice and its equivalents.
+
 The stepper schematic can be opened with Fritzing (v.1.0.3 recommended as of 09/16/2024).
 
 ### Chassis Sheet Metal Flat Drawing
@@ -134,7 +141,7 @@ See Documentation => Summary Sheet -> Assembly with the steps w/ pictures.
 ### Prototype to Manufacturing
 
 #### Timeline:
-**1 month for prototyping & testing, 1-2 months for manufacturing 200 units**  
+**1 month for prototyping & testing, 1-2 months for manufacturing 200 units**.
 *(may take longer depending on shipment times)*
 
 1. **Test for corrosion/water leaks from design.** Can do this by spraying oil, water for leak test, acetic acid for corrosion test.

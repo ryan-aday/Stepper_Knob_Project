@@ -1,6 +1,9 @@
 # Stepper_Knob
 Hardware, firmware development of an automatable kitchen knob.
 
+![image](https://github.com/user-attachments/assets/f60eb6ef-5f02-48cc-b8e3-cc1882c6f467)
+
+
 ## Documentation
 
 The CAD files have been drawn up in Solidworks 2024.
